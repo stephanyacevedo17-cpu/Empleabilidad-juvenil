@@ -9,4 +9,3 @@
 - Vinculación Laboral: Maria Alejandra Barbosa
 - Daros y registro de información: Andres Felipe Salazar
 
-- 

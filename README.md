@@ -5,6 +5,8 @@ Complementar registros administrativos y caracterizaciones con información actu
 
 ## Alcance
 
+Ruta de empleabilidad juvenil diferenciada por perfil. Busca reducir las dificultades de las personas de 18 a 28 años de San Gabriel para acceder a empleo formal y de calidad, porque los canales institucionales de intermediación llegan solo a una minoría. Combina orientación laboral, formación modular y vinculación a prácticas o empleo.
+
 ## Equipo y responsabilidades
 
 Fabián Andrés Pérez González: Coordinación general del proyecto: conformación del equipo, control del cronograma y comunicación con aliados.
